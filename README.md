@@ -21,7 +21,7 @@ Los dos problemas seleccionados y desarrollados son:
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 
 Para ejecutar este proyecto de manera local, deberá tener instalado Python 3.x. 
 Luego
