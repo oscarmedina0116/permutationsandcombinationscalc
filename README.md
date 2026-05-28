@@ -114,3 +114,9 @@ Para agilizar la revisión y omitir la configuración en un entorno local, el c�
    python main.py
 
 
+### Evidencias de Ejecución en Consola
+
+A continuación se adjuntan las capturas de pantalla que demuestran el correcto funcionamiento del sistema interactivo y el cumplimiento de la batería de pruebas:
+
+![Captura del Menú y Pruebas](evidencia1.png)
+![Captura del Triángulo de Pascal](evidencia2.png)
