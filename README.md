@@ -1,8 +1,8 @@
 # Bono programable 1 
-## Asignatura: Matemáticas Discretas I
-## Universidad Nacional de Colombia
-### Docente: Jhoan Sebastian Tenjo García
-### Estudiante: Oscar Andres Andrade Medina
+#### Matemáticas Discretas I
+#### Universidad Nacional de Colombia
+#### Docente: Jhoan Sebastian Tenjo García
+#### Estudiante: Oscar Andres Andrade Medina
 
 ---
 
