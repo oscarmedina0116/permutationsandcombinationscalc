@@ -120,8 +120,8 @@ A continuación se adjuntan las capturas de pantalla que demuestran el correcto 
 
 ![Captura del Menú y Pruebas](evidencia1.png)
 ![Captura del Triángulo de Pascal](evidencia2.png)
-![Captura del Menú y Pruebas](evidencia3.png)
-![Captura del Menú y Pruebas](evidencia4.png)
-![Captura del Menú y Pruebas](evidencia5.png)
+![Captura del Menú y Pruebas](Evidencia3.png)
+![Captura del Menú y Pruebas](Evidencia4.png)
+![Captura del Menú y Pruebas](Evidencia5.png)
 
 
